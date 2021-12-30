@@ -27,8 +27,8 @@ jobs:
           plugin_people_thanks: YourButterfly, Dawuge
           plugin_people_types: followers, following
           plugin_rss: yes
-          plugin_rss_limit: 4
+          plugin_rss_limit: 5
           plugin_rss_source: https://mundi-xu.github.io/atom.xml
           plugin_stars: yes
-          plugin_stars_limit: 5
+          plugin_stars_limit: 7
           repositories_forks: yes
