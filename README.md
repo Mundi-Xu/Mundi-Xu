@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://github.com/Mundi-Xu/script-money/blob/main/github-metrics.svg)
+![Metrics](https://github.com/Mundi-Xu/Mundi-Xu/blob/main/github-metrics.svg)
