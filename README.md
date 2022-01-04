@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-### My name is Hanyu, a security researcher, focused on Fuzzing, Vulnerability Research, Reversing & Binary analysis
+### My name is Hanyu, a security researcher
 
-#### More information about me can be found [here](https://mundi-xu.github.io/2018/10/25/hello-world/).
+### Focused on Fuzzing, Vulnerability Research, Reversing & Binary analysis
+
+### More information about me can be found [here](https://mundi-xu.github.io/2018/10/25/hello-world/).
 
 <!--
 **Mundi-Xu/Mundi-Xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
