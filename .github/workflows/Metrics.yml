@@ -42,7 +42,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           filename: blog-metrics.*
-          config_padding: 0
+          #config_padding: 0
 
           # Options
           user: Mundi-Xu
@@ -50,7 +50,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          #plugin_isocalendar_duration: half-year
           plugin_lines: yes
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://mundi-xu.github.io/
