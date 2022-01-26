@@ -284,7 +284,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>satan1a/awesome-ios-security-cn</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">iOS安全资料整理（中文）</div>
@@ -325,7 +325,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/rustlings</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -487,7 +487,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/honggfuzz</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based)</div>
@@ -698,7 +698,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jan 2022, 21:14:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 27 Jan 2022, 00:25:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
