@@ -284,7 +284,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HexHive/fuzzing-seed-selection</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">"Seed Selection for Successful Fuzzing" artifact (at ISSTA 2021)</div>
@@ -676,7 +676,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Mar 2022, 21:23:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 31 Mar 2022, 00:09:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
