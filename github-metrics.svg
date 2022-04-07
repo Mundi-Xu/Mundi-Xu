@@ -384,7 +384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HexHive/fuzzing-seed-selection</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">"Seed Selection for Successful Fuzzing" artifact (at ISSTA 2021)</div>
@@ -525,7 +525,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hac425xxx/heap-exploitation-in-real-world</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -677,7 +677,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Apr 2022, 15:04:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 7 Apr 2022, 18:08:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
