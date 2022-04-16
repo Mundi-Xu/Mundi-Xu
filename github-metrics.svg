@@ -284,7 +284,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>advanced-security/codeql-queries</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub's Field Team's CodeQL Custom Queries, Suites, and Configurations</div>
@@ -437,7 +437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HexHive/fuzzing-seed-selection</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">"Seed Selection for Successful Fuzzing" artifact (at ISSTA 2021)</div>
@@ -676,7 +676,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Apr 2022, 15:03:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 16 Apr 2022, 18:07:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
