@@ -337,7 +337,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>scotty-kdw/ARM-Analyzer</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Backward Taint Analysis (GUI) on Desktop : Analyzing trace log to determine exploitability by tracking data propagation</div>
@@ -384,7 +384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Kharos102/kafl.targets</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Target components for kAFL/Nyx Fuzzer</div>
@@ -676,7 +676,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Apr 2022, 21:14:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 18 Apr 2022, 00:04:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
