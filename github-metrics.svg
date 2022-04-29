@@ -284,7 +284,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>veraPDF/veraPDF-corpus</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">veraPDF test corpus for ISO 19005 (PDF/A)</div>
@@ -484,7 +484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>advanced-security/codeql-queries</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub's Field Team's CodeQL Custom Queries, Suites, and Configurations</div>
@@ -694,7 +694,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Apr 2022, 18:09:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 29 Apr 2022, 21:33:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
