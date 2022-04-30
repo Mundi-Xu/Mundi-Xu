@@ -284,7 +284,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>protocolbuffers/protobuf</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Protocol Buffers - Google's data interchange format</div>
@@ -337,7 +337,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>veraPDF/veraPDF-corpus</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">veraPDF test corpus for ISO 19005 (PDF/A)</div>
@@ -537,7 +537,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>advanced-security/codeql-queries</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub's Field Team's CodeQL Custom Queries, Suites, and Configurations</div>
@@ -694,7 +694,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Apr 2022, 18:03:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 30 Apr 2022, 21:15:58 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
