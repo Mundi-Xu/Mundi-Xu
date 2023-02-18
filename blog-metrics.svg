@@ -37,7 +37,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 17 Feb 2023, 22:12:21
+Last generated: 18 Feb 2023, 22:11:11
 </div>
 <div class="stdin"><span class="ps1-path">mundi-xu@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Hanyu</b> registered=4y, uid=0784, gid=1
   contributed to 6 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
@@ -53,7 +53,7 @@ Last generated: 17 Feb 2023, 22:12:21
 <b>Tracked activity</b>
   <b>   23</b> users followed
   <b>    0</b> repositories sponsored
-  <b>  186</b> repositories starred
+  <b>  189</b> repositories starred
   <b>    5</b> repositories watched
 </div>
 <div class="stdin"><span class="ps1-path">mundi-xu@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 17 repositories - 9 forks - 393 MB
@@ -68,14 +68,14 @@ dr-x         LICENSE
 </div>
 <div class="stdin"><span class="ps1-path">mundi-xu@metrics</span>:<span class="ps1-location">~</span># curl -I https://mundi-xu.github.io</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://mundi-xu.github.io
-<b>X-Performance</b>: 72%
+<b>X-Performance</b>: 99%
 <b>X-Accessibility</b>: 95%
-<b>X-Best-Practices</b>: 92%
+<b>X-Best-Practices</b>: 100%
 <b>X-SEO</b>: 90%
 </div>
 
 
-<footer>Connection reset by 114.154.60.157</footer></pre>
+<footer>Connection reset by 89.101.130.152</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
