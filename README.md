@@ -4,7 +4,7 @@
 
 ### Focused on Fuzzing, Vulnerability Research, Reversing & Binary analysis
 
-### Current work direction mainly includes Operating System, Virtualization, TEE, Self-developed Language and Open Source Security, etc...
+### Current work direction mainly includes Operating System, TEE, [MindSpore](https://www.mindspore.cn/) and Open Source Security, etc...
 
 ### More information about me can be found [here](https://mundi-xu.github.io/2018/10/25/hello-world/).
 
