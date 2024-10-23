@@ -37,7 +37,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 22 Oct 2024, 22:14:48
+Last generated: 23 Oct 2024, 22:14:27
 </div>
 <div class="stdin"><span class="ps1-path">mundi-xu@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Hanyu</b> registered=6y, uid=0784, gid=0
   contributed to 5 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
@@ -68,14 +68,14 @@ dr-x         LICENSE
 </div>
 <div class="stdin"><span class="ps1-path">mundi-xu@metrics</span>:<span class="ps1-location">~</span># curl -I https://mundi-xu.github.io</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://mundi-xu.github.io
-<b>X-Performance</b>: 65%
+<b>X-Performance</b>: 86%
 <b>X-Accessibility</b>: 91%
-<b>X-Best-Practices</b>: 96%
+<b>X-Best-Practices</b>: 100%
 <b>X-SEO</b>: 91%
 </div>
 
 
-<footer>Connection reset by 16.90.165.14</footer></pre>
+<footer>Connection reset by 149.21.77.94</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
