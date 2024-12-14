@@ -284,7 +284,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>verazuo/jailbreak_llms</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">[CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).</div>
@@ -337,7 +337,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ShenaoW/awesome-llm-supply-chain-security</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome resources about LLM supply chain security (including papers, security reports and CVEs)</div>
@@ -711,7 +711,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Dec 2024, 22:15:28 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Dec 2024, 22:13:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
