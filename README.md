@@ -2,9 +2,7 @@
 
 ### My name is Hanyu, a security researcher
 
-### Focused on Fuzzing, Vulnerability Research, Reversing & Binary analysis
-
-### Current work direction mainly includes Operating System, TEE, [MindSpore](https://www.mindspore.cn/) and Open Source Security, etc...
+### Dedicated to vulnerability research and security assessment with a focus on LLM security and system security, alongside expertise in distributed databases, compilers and programming languages, cloud distributed software, and network middleware, among other areas.
 
 ### More information about me can be found [here](https://mundi-xu.github.io/2018/10/25/hello-world/).
 
