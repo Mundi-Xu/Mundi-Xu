@@ -58,3 +58,6 @@ jobs:
           plugin_repositories_batch: 100
           plugin_repositories_forks: yes
           repositories_forks: yes
+          plugin_pagespeed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://mundi-xu.github.io/
