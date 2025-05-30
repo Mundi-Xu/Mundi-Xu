@@ -2,7 +2,7 @@
 
 ### My name is Hanyin, a security researcher
 
-### Dedicated to vulnerability research and security assessment with a focus on LLM security and system security, alongside expertise in distributed databases, compilers and programming languages, cloud distributed software, and network middleware, among other areas.
+### Dedicated to vulnerability research and security assessment with a focus on LLM security.
 
 ### More information about me can be found [here](https://mundi-xu.github.io/2018/10/25/hello-world/).
 
