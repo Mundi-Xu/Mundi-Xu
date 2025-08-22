@@ -1,24 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Hanyin 👋
 
-### My name is Hanyin, a security researcher
+A security researcher specializing in vulnerability research.
 
-### Dedicated to vulnerability research and security assessment with a focus on LLM security.
-
-### More information about me can be found [here](https://mundi-xu.github.io/2018/10/25/hello-world/).
-
-<!--
-**Mundi-Xu/Mundi-Xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 My current focus is the security landscape of Large Language Models (LLMs).
+- 🧠 This research often intersects with traditional binary and system-level security.
+- 📄 I share my research and technical findings [on my personal blog](https://mundi-xu.github.io).
 
 ![Metrics](https://github.com/Mundi-Xu/Mundi-Xu/blob/main/github-metrics.svg)
