@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Mundi-Xu
@@ -23,9 +23,9 @@ jobs:
           # plugin_stars: yes
           # plugin_stars_limit: 5
           plugin_starlists: yes
-          # plugin_starlists_limit: 2
+          plugin_starlists_limit: 3
           plugin_people: yes
-          plugin_people_limit: 24
+          plugin_people_limit: 96
           plugin_people_size: 28
           plugin_people_types: followers, following
           plugin_fortune: yes
