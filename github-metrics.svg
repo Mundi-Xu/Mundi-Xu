@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1939" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1721" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}.gauge text,h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.field.language{margin:0 8px;flex-grow:0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.tracklist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.people{padding:0 10px}.people .avatar{margin:0 2px}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description,.starlist .repository .infos{font-size:11px}.starlist .repository .name{font-size:14px}.starlist .languages{margin-top:6px;padding-left:13px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}.rss{align-items:flex-start}.rss .infos{margin-bottom:3px}.rss .infos .date{font-size:10px;color:#666}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}.gauge text,h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.field.language{margin:0 8px;flex-grow:0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.people{padding:0 10px}.people .avatar{margin:0 2px}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description,.starlist .repository .infos{font-size:11px}.starlist .repository .name{font-size:14px}.starlist .languages{margin-top:6px;padding-left:13px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}.rss{align-items:flex-start}.rss .infos{margin-bottom:3px}.rss .infos .date{font-size:10px;color:#666}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -33,10 +33,10 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -143,52 +143,14 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"/>
                     </svg>
-                    Suggested tracks
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="field">
+                        <div class="field error">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M2.002 2.725a.75.75 0 01.797-.699C8.79 2.42 13.58 7.21 13.974 13.201a.75.75 0 11-1.497.098 10.502 10.502 0 00-9.776-9.776.75.75 0 01-.7-.798zM2 13a1 1 0 112 0 1 1 0 01-2 0zm.84-5.95a.75.75 0 00-.179 1.489c2.509.3 4.5 2.291 4.8 4.8a.75.75 0 101.49-.178A7.003 7.003 0 002.838 7.05z"/>
+                                <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
                             </svg>
-                            From YouTube Music
-                        </div>
-                        <div class="tracklist">
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABAUBAwYCB//EADAQAAEDAwIEBQMDBQAAAAAAAAECAxEAEiEEMRMiQWEFFFFxgTKhwZGx0SMkM0Px/8QAGgEAAwADAQAAAAAAAAAAAAAAAgMFAAQGAf/EACgRAAEDAwMDBAMBAAAAAAAAAAEAAgMEESESMfAiQWEFE1HRcYGRsf/aAAwDAQACEQMRAD8A938ytLlpKd47etVu+IhO6ugrOI1o4mXf9gGXOknr+maHc1h6qux9vmq4hzlc46ssMLSq8USrZV33qD4kn6StN3pNZlOs/wCUPqks6nmJUhzotGD80wQtvYpLq19rtyterXBO6use9T54etYoMKTb/eOcvWAPxRmmfDdt7ri07EmCf2onQNGxuvGVzyeoW/YWr88PWqzrM70gXqE8O5tV3r0zjpVHnO9B7KYatLFeIhV0BWyx03MZrrVeIF9xVgsTcTG8SAPwaQJ1I4eTVzLt3WqbqYDNlzDfUC/F90yDtdcTvQCXO9dhygMdk0T3RoWVfSFK9qguFN0n43P6UIpz0NDh91T/ADDliMkTNY2O6x9RpsmjOo/p3G7YgDIOcZx71zxO9CpcqLq805Re7hIeIKtKi2jC0/xSxpw/UKsu5MmarkXXPaNOyOTqFN8yjdiAO9WMOOOOcRxCuUdJgfFANr7VYHbuUqtSo53gDuKFzQja5wNk7Q08+jiNBJyABOVSYnsBnJgVJ0LiW231vJS24ypwE8ougQJPqVJz77VPg/iDaWHNJpWrXHAs3riXCELiR05oxkfubH9OpPkuJcG9RqEpDeQEpCQEA/naYxIyIclRKyUxu6R2+SLHzjY8OL8NJFNEJB1HvnANx/dxzJK8QeaTpE+XS4pPE+sthN6RdkRuAIz39SaSuahSXFJhXKYovWqKmNI405w23GSVPPOEOLBJwcSrEbA/IzS19LZXctx1alCSoIkE+skya2qFjGsznJ/3xzwtT1B8hk+LW/G3nnlK1oQnSNqZRKr8upJtMpBsMjBT196guISjP+RKjJnEYiPmaq8Mcc0UarSuKbfaWAhQjEzNU3lLloPKaotB2SJg07DPOfaIQ8OldhztUPsoQNQUpixxCR7EH+KjRqCX2rkJWk7pVMK7GKLVi6U6Dq0onS6lzTatnUNBNza7gFbHOQfvTB/xl1S2OAW3rWrlhenSnhqM3woZ7zjJpC5hxXZM0MX1nlnORd1gjb2pEtNFI7U5oJ59rappZImFrXWG6bqcL7/EVajIK7CpciCSZJOfn81L+pN9iXVLaRKWy4YNskjHTeqNG66rTr0fFUNMFcWzEXWROR6UrdWq4SpRx1O1MYLY+EEjA8X7lf/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">我从人间走过</div>
-                                    <div class="artist"></div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">不該</div>
-                                    <div class="artist"></div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABQcDBAYCAQj/xAA0EAACAQIEAggFAgcAAAAAAAABAgMEEQAFEiEGMRMUIjJBUWGBB3GRocEjM0JDYnOx0fD/xAAaAQADAAMBAAAAAAAAAAAAAAADBAUAAQIG/8QAKREAAgECBAUDBQAAAAAAAAAAAQIAAxEEEiExBTJBUbEUInEjYYHR8P/aAAwDAQACEQMRAD8A+comYd0cm5/b84jiiYMxF7GwwUhpQaE1TuqqZigG5JIAP5H0xOmUVa5YuYGmbqTfzQVIvcra178wcPZe8nXI2EAtIVYqR3dhizlcssDStCA2wRgb+p/BxYjgVmuynduWGP8AC34Xz8aZdUZo2YQUVL0hSNZQXaUr3iACOzc2vv47YFVqCgM7GGpUjiLooisjS0hVgd11b4klgJja3ng7neWT5fn1bQVkQjqqRzDIt7jwIIPiCCLemKqrEu29z5b/APHDFIK65hsYvVdqb5WGogNoSpPPSMXOtkMwsOeJAhKvGqDtJb7g7etwMdNQy637I7x8RjeQjaY1RTzS5TyK+XLCTsJGf3IA/GNTw/WRVGTxZXUdHJAwc6G/hI1MCfcDAXJoMu6hV9faq6VV1wiLTpckqLG+997/ACGJMnalLy9bkeMInY6LTqZiyqRc+GksfbBMoI1gCWDe0yskQizCFUHaWYbevrh0/DyvyGLI5oJaSNp45Xpalg57MTElttVgd+8Bfz5YUTyClzOSSBnkUzGOJwO8Rcgk8uQvhnfB7gCTibhzNq2RIJFFUeh6a95D0aar/wBLG2x9cS+JspKr1lfg6MmZ222i94uqaHMeIJ6jKYx1JbU8bmR3LBBpBLNcsdj2vHbywFo8vkmm/TQ899vPE1dJLQNNDmKlX6wemUWBhYk3O1xb0vtbG/4eyeljy+WaSpbrAYgINJUhQLHnfnt7YdwVRDRAXpFMbRqepNxoZlco4YaoYGQHl5+ONdFwqZUDvr1HnpbbHOTT0lLNI1U8qoU2aPbtF1W+4tbck+gwby0cQ1VKJaKCFaUs3Ra7Bit9iQeRwdr3h8OKNuUsYm6WWWP9uWRbG/ZYjcG4O3jcA+3pidGmcgGSTlbdza3K3y3Ix5l9M0jjY6fzjR0eW3UEke+DWAkezNM0sSNmANVIVXpGvc820Lb3NzjVcIfErPOFqOppeHKmljWSoFRMJ4BINOkAm+q9l0gHxOra1sY7jALS5qyXOkTKdv7a8vvgI8vSPI8ihWki0dk6vEG5PtiBVQNWYnufM9HSfLRVR2HiH85rUzWOvkgibVVO03Luktq038+f1wxOCMwaLh+nEuptLyp7CQ/6H0woYKxxTwiHSqpYFQL3F7XJ87n74ZfDLqmSxCQFW6SQlT4Xdj+b++D4FLOR/dJxi6vsD9dIUzWuldZBSsY9VyL78yCfuAfb0xXps6zCGIKaqUMSSdLHc+fzxzUTI2wwMkuHPP64r5RIzO97gwdSQmBAVY6hyXF+OtktbVjh+zGLAc8VXH6njzx2FBmjptAnF8iSGmkcBm1yavfkfmPxjI9IVDRgczzvgzxLI7VaoT2VLAfXAgtYjYYhvzH5PmWF5R8DxLFCAsqAyDtsobytqB/yAfbDIo3vC9iNJdrfIG2FhqNj6Y3nDU0kuWapG1ESMOQHr4fPDGDF6v4/UDiT9O33h2PTzJOIZO8dzjhXYeOJrXxWyiILrP/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">平行世界 - Parallel</div>
-                                    <div class="artist"></div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABAUDBgABAgcI/8QAORAAAgEDAwICBgYKAwAAAAAAAQIDAAQRBRIhBjETQRQiMmFx0RVRgZGhsRYjJDNCREVigsGT4fD/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIDBAX/xAAiEQACAgEEAQUAAAAAAAAAAAAAAQIREgMTITEEIiNBUXH/2gAMAwEAAhEDEQA/APl2OMsOKN0+2Mytgdj/AKFDwyGMABQeaMsL57QN4cUbAnJ3Z5raCVqyGxhFphbHq/hRSaQxHsmuIupGj/koj/mflRS9WOv9Oh/5T8q6o7XyyHIhOkNj2aWavZejwLkcu4H505k6ucoQunQhscEyE4PwxyKUX+sTXwQTwQAI28bARz7+cGp1NuvSCkK5ICq/GhynNHSXRcBSigY8qGPJrncUXZJboGbBAr0LorS7C709zc2VtK6yFcyRhjjAxzVAtf3g99ekdAv6l3GP4WU/eD8q7vEinJWjNstVt05oxA3aTYH4wL8qi6g6I0u/sVNjaQWlxC29RCgjWXtlWIGewIyORnPPapNY6gs9AtI5r0szOcJFGAXb6zjjgcc0x0PXLXWLFbqyfdGTgq3DIRyQR5Ht/qvTcdGXt0rIuXZ8/L2GQc+8VZontJeit0ljbLdRXBh8dYlDsMZBJxnOWA+ygesUhh6p1RLcbY/G34B82ALfiTSlZ5FjMYkYRsclM8E8c47Z4rxrwbT/AAfRkkajOAKgK0QxyvNQms5IaZuE4cUziv7q2cNaXMsO5QD4bbc4zjOPjSy1VJJ1SWeOBD3kkDFV4zztBb3cCrzN0pItnZ2enQpe3OoNI/pUv6owrEU3oI8khgSB7WTuZSgKghx1FFUVi2U2+u7i8uPFu55JpAoG6RixwOw/99dbs767si/ol1cW+/AfwZGTI5x27/8AdWj9D7STTrS5+llhEkjRyTThVjQqJsnGeAWiCjnncPMham0DpDTZpXXVtRmjV7dZBtgaMwtncQxII3BVII7DepzWefNoMGU+3jN3eJG88cRlf1prh9qjOcsx5NGXmkejRNJ9J6TNtXfthud7H+0DHJpzpvSthJquk2l3rKeNcxmS5to4CZYGUEtG3PBwGznkY9mmM2ndLvpcQeE2khv4YPEe6y627uWEnAwCVJI3jARR6xI5TnyUofZRA3FcmrlNp3T1poN/Ja3K3t/ClwGXfvCr4yxRuDgKOGVhjvkntgVSs1SlZONG7Wdre5hnRVZo3VwHXKnBB5HmOKKe8vLy3t03XU81vJJKH3M5XftPB8juDH4nNLMmsPvrMvoOkF1JHBCYJVWKPYAEYEqXZskefLflXcTalbwSW0JvooXzviQuqtxzkdj2/Cl3l2FaoAMmiupnaaeO4keVsl3UkuxPOSe5/PNEftElldeLHdPLNPHMXZC2/iTJJ+v1h8cmlf2Cs+wUDGmnuUsNUYkbHgSHOe7GZHAA8+Eb7qA3e+o81mTQmI//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">有时候我也想和世界告别</div>
-                                    <div class="artist"></div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAABAIDBQYHCAEA/8QANBAAAgECBAQEAgkFAAAAAAAAAQIDABEEBQYhEiIxUQcTQXEyYQgUFRYjJIGRsZKhs8Px/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDBAH/xAAbEQADAQEBAQEAAAAAAAAAAAAAARECAxIiMf/aAAwDAQACEQMRAD8A1JUparSwvSlAVWGCiQvypLLtTwG1JYbVyBQZlpiRaMYbUw4ogAEy0GycxqSmG1BOOY0Q5Sx2r1a8NfVSHBXpVX1NrjT2m8SmGzbMFixDW/DjRpGQH1bhB4R71aoE82RUUPxk7WFxf2rEPHDwS+yxFnuFzbF4/F5hjlixAmjAVOJWs1+vxBRb50mteSvLn7NSyHUGT5/A8uS5hBjETZ/La5HuOtGyetYL9H/KcbkviLmuBxTrwnK3m5Guj2lis37MRW8S0ZdVF6Y8ODEtBOeY0TK216CduamhOllJ2vSlVnayKXNr2UXNqYLfOl4abypw3CWPwgBuHc7dadoEwuPENhDzIVPXpY1A+I+LzHUOnzgY8PHMS4ZRspBF9ySbf9o/MJeOR3iYeignmFwB+pqn64z37saYzDM3kMkoXhiW7W8xyALAk9Cb+wNqTXNaUZTn11jXyZtmes5tDatw8ccUeLkjRRj7G7lHAZkBv8Vzxbnt3JGxZZmuEzrLMPj8unSfCTrxRuvbsfUEHYjqCDeuQMe8iRjjPOeZyTc37Vqv0ds35s6yp2FiExcaet/gc/46XGVj5RTu/a9s2qdtqBduY07LJsaAkl5jvVYZKWTzadwkivMeIg2UsAy3BPz2O1r/ALenWorzG70oOyhuFiL7Gx6i4qkoWEhmbKkwXhCvw7hVIB/TvbrbbtXPnjXqP7U1Th8jgP5TLfxp+zTMvL/Sp9PVj2ra5JpHdeN2a/c99/5rl3UEjy6n1BNIeKRsdOCT2EhAH6ACla/EU5Otsg8bIz4dXY3Lsbe1zVt8E8f9U19ho2vbFQSwX9AbB/8AXVKmP5SH3b+ak9DTyYXWeRSRHm+txJc9nbhP9mNRv0jQ18s6lnm2NR8k3MaTiHax3oVutXMJ/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">年少有为 - If I Were Young</div>
-                                    <div class="artist"></div>
-                                </div>
-                            </div>
+                            Unexpected error
                         </div>
                     </section>
                 </div>
@@ -295,17 +257,17 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>hasantezcan/computer-networks-notes</span>
+                                                <span>jlevy/the-art-of-command-line</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">This repository includes all my notes material about Computer Networking lesson. Those notes based from Computer networking a top-down approach 8th Edition books.</div>
+                                        <div class="field description">Master the command line, in one page</div>
                                         <div class="field infos">
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                50
+                                                161k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -323,23 +285,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>danbev/learning-v8</span>
+                                                <span>iina/iina</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Project for learning V8 internals</div>
+                                        <div class="field description">The modern video player for macOS.</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#f05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                C++
+                                                Swift
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                2.73k
+                                                45.6k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -369,23 +331,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>stong/how-to-exploit-a-double-free</span>
+                                                <span>libexif/libexif</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">How to exploit a double free vulnerability in 2021. Use After Free for Dummies</div>
+                                        <div class="field description">A library for parsing, editing, and saving EXIF data</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#3572a5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Python
+                                                C
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                1.39k
+                                                371
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -403,23 +365,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>LibRaw/LibRaw</span>
+                                                <span>pwndbg/pwndbg</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">LibRaw is a library for reading RAW files from digital cameras</div>
+                                        <div class="field description">Exploit Development and Reverse Engineering with GDB &amp; LLDB Made Easy</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#3572a5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                C++
+                                                Python
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                1.54k
+                                                10.6k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -576,7 +538,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.8672142368241 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.95208761122519 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -790,7 +752,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 6.24m out of 230m users</span>
+                                    <span class="gh">ranked 6.25m out of 230m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">15</div>
                                     </div>
@@ -1049,7 +1011,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 4.22m out of 335m repositories</span>
+                                    <span class="gh">ranked 4.23m out of 335m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -1186,14 +1148,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2026, 23:06:36 (timezone Asia/Shanghai) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 22 Jul 2026, 23:06:10 (timezone Asia/Shanghai) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
