@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1749" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1930" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}.gauge text,h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.field.language{margin:0 8px;flex-grow:0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.people{padding:0 10px}.people .avatar{margin:0 2px}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description,.starlist .repository .infos{font-size:11px}.starlist .repository .name{font-size:14px}.starlist .languages{margin-top:6px;padding-left:13px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}.rss{align-items:flex-start}.rss .infos{margin-bottom:3px}.rss .infos .date{font-size:10px;color:#666}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}.gauge text,h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.field.language{margin:0 8px;flex-grow:0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.tracklist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.people{padding:0 10px}.people .avatar{margin:0 2px}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description,.starlist .repository .infos{font-size:11px}.starlist .repository .name{font-size:14px}.starlist .languages{margin-top:6px;padding-left:13px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}.rss{align-items:flex-start}.rss .infos{margin-bottom:3px}.rss .infos .date{font-size:10px;color:#666}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -143,14 +143,52 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"/>
                     </svg>
+                    Suggested tracks
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="field error">
+                        <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
+                                <path fill-rule="evenodd" d="M2.002 2.725a.75.75 0 01.797-.699C8.79 2.42 13.58 7.21 13.974 13.201a.75.75 0 11-1.497.098 10.502 10.502 0 00-9.776-9.776.75.75 0 01-.7-.798zM2 13a1 1 0 112 0 1 1 0 01-2 0zm.84-5.95a.75.75 0 00-.179 1.489c2.509.3 4.5 2.291 4.8 4.8a.75.75 0 101.49-.178A7.003 7.003 0 002.838 7.05z"/>
                             </svg>
-                            Unexpected error
+                            From YouTube Music
+                        </div>
+                        <div class="tracklist">
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAABAUGBwMCAP/EADIQAAIBAgQDBgUDBQAAAAAAAAECAwQRAAUSIRMxQQYiUWFxkRQjgaGxQuHwFSRSY4L/xAAZAQEAAwEBAAAAAAAAAAAAAAAEAgMFAQD/xAAgEQACAgICAwEBAAAAAAAAAAABAgARAwQSIRMxQTJR/9oADAMBAAIRAxEAPwCzhhikW7m3/Sj845PTRhC3Ox/S46g9Pb2wdVxCOVvh5Dw272xwEY3DahfVfnhwMxHWjUDnjS44YNvPHFY11rxL6fLDBoywJ5N/OWFec1KUUMDSErrlVb26BgT9gcTLULMrCFmAEdQZfSAh3uIjbmRe3UY9Tx0UzJwtWhVKkDxA239ftgWCeOeD5brIt+hBBI9MeopRTjUVPkMR7l4Zaqqhc2WwQxqeBLrNlIuCbkGxt4XB9sTs2sTOu6aWK6fCx5YKnqamaXiNPKGvtZjt6YHa+osxuzd4ltyTixRXuHysG/PUsqq05BWMRn/EHb6DpgWZUhieWZlSJAWd3NgAOZJPIYaVrxQxmaqlWNbhdRI5nkL+OMr7f9tRHM1BRJFNRPZXdwUuBa4vcXGA+YKJqnWLtZjzN+0KQyPDQRxzNp2lMllBI2sADf8AbEnmNRW10YE9S7qi6rWt68vp74nJc10081Q5bSHDC0ZCxgHSB739SvrjnJmYjQK+YU0rmzBETvWNrC+wA8t8EfK73Z6jcWHFi/I7/sN7PZ3Wdn+1i09Zl1UuXThlEt79O6xB2FyAPr1xptDPHmdElXAG4blrBhuLEjfz2++MrzV3koqWrzCU3nlOhQBsASA1ugH338sU3ZfOpshDUtYoqqeRw4ZBZ0uADt+rYDw+uL9fMRXL1D7msuTtPctY6R5GsoFupPIfXBCUcYUbavMKcfZXnGUZpEfhswiLKCzxnuaLWvfV03HvthuKUSKGR9SnkQxIt5W2wrzA/YJdQr7Egq7P81zakalqJoVITWQkei/K2/Q3IxNJlFWksbNEjLYXHiLi5v1Nre2KSqNZRRGWrppFQoba1tuLWN/UffCpc+LSIgpku1t/InnjIo91N4ETl2s1STxUyKixyKtrRgEXAJuOu37YASin+JlhWYaEJWxUDYjoRyw4z6sjp50kESFFVdbFRvsOV/PC9c4R61o4oFKu+kHRsPXy3x0BqnCVuSvatXgh4Cj5VM6pGoGwAhQEAdBcHFTFl6xzRSTsZglrKW6EC4v6398T3bR0kmiijYMzTM52A2Nh+Qf4MOYs8inlWOLgAltIJFhyG9yOW+J98RUqFcjcc5uHoC0dGEjiZuhI2PPAkFZmcSsqV8ugMdKiZ1CjwAG1sDZ5mpSYiCFGRWC6iAfv44GTMgwP9vECDY3j6+2PIpqSZhc03NKiKqpzBOW0khufUeOMt7X5VUw1GrLw7Ul9yrBLA25m+KCpq5urD2wDWyNUQy08pLRuhBF8aR1wRf2Zg2CDXyRlXUVk8MsU1VOWB02J335WJ6Wv62xw+IcLxqd6xOER3i/dBFrnBtVGqVjxi5VQCLnrbAVXZqaRSARwz+MD4kEiMBBAMTDP5c1r6NKj5bRJpMw5uQvUcrX/ADiryqglzqUPErRQRkLxJNhv4Ac9vzjNqFR/U6cf7CPpY41bs4TFlEOgkayxbzNyPwBi/DjBNQ+fMyqW+yoyrIcsolvI9RNKQVOt9hfwty2v774fQVNJBEsUUUQRBYAgH8i+JCCpkawJ29TjuZnG17+uE+FYUbLmf//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">還在流浪</div>
+                                    <div class="artist"></div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABgcECAABBQMC/8QAMRAAAQMDBAAFAwMDBQAAAAAAAQIDBAURIQAGEjEHEyJBURRhcTJSgQgjsRVCkaHR/8QAGgEAAwEBAQEAAAAAAAAAAAAAAgMEAQUABv/EACURAAICAQMDBAMAAAAAAAAAAAECAAMREiExBBNBBSJRYXGR4f/aAAwDAQACEQMRAD8Aq7CiPTZCWIqC48s2Sm4BP4vqc5QZ7MZUiTGfYZCigLcaUlJUO0hRABIsb69dqyG4lXbfeMHyWv7i0TG+aVhJvxGCQT1i350xK8OcVqqz6iin0qY79VC5Fb61nldfBBdVx7Iykd6U7lTiNRARkwS29styp0adU3HHkxopTcttKVyB+LDOoEXbxnqcciK8uGkizrhBuPt99Wd2t4pyarHix6FtXcVTaCCG5SyhltwJNjZajY26te+NfUbeVAr81yHU6VNpM1212amwgtvhJyEq6tkZxe4zbUzX2DJxKFqQyvtE2O3XnZMWmyGWnokZct5yW4pIDSCkKUAlCiSOQxYnvvRNQ/B2DUZUZs7kdcW9ltqNTlqLoH6ghSygqIz0k2GSNTNuvbd274jMyU14ymFvvQZcJMIoT5LpKCgeo8kp5A2AJPHonGmCjdtC2rt6nrlS5cl2nh7ylyIyg7/daCD5KHyyQiwNhZWSRc9a0vacaOJTSnR6GN2dXjfbg/WecZ38wWpPhBQUz0CZTq25THSllFQkzG0Nlbiy22UtpRyJ5j9JVcC/JI96+1CI9AnyYcpHF+O4plxPdlJNiP8AkasHW/FKFUqUZsSh1CoxnZXnPF2WiLxkstA+cUtIPFakKJuFJB8tWMHSQ3fVzubc9SrSYLcQzXi8plm5SlR7N/km5P3OnUCzfXJ+tbpiF7AwfPP18n8/Hic6O6wiJJbdjBx9wJDTvMjyrG5x0bjGdTqLQ5tWD64jZDLSQVulCyhOQLEpSbHN8+w13fCihxq7uKVHlxlyQ1DW820lta7rCkgEpQCSPUT7D5NtGkeo1yttw6HQqK8xSli7y3ElhpxH7Q4BYJOMjJv8X0TuwOlBF0Uhxk/qMHwaD0Daz1GiVWNJqcf1CJNacY8kKN8XQVKQTc8rAfYHRrX6bttxVDjVWm0+oyAspbceTyBJR6hY4CDcHhcgHibXzpWKotYpsuDWAYwmRQqM7HSVoQWwf0A2BIuB1gWF7gkaHNo1N7ce9lJrX1s1EGQ5IjsWy2RyIQodABRA+PSPYWM4qKsXnQtTtkJyIxt7eG8BVEgbi2VHNLfS8me/HitIW6pJFnG21KF8DkA2fQTiwvpcSJO26e3WJ0GIzVVF2PNlRZjYaJZfbT6CEkISlpboHIJKitwYAb5KsiUeW7T4yUMrYUglC27AqX3cDocuRPxf3vnVXvHLb7229/OOMPyU0+rNBYPmH0puEraKiTdIKQQOgCkWxp1YHnmQXpg5XidDeu7KrEjMT6RFZoaZJbKG2nLpQprjwWgABKPSFDjaxDigrljiq5lfqkxxK3pz6QlIQhtkhptCR7JQmyUjvAA7OiHeCy9TmFQkLdp6FuBt4EnAIF/+tBGjr43iLAAcCEGzt0VDadSfnUh3ypTkdccOWBKQq1zYj7DRg14sTo0GCzDhtNuMJCFHigXT7hNki35z/wCAm36PKrc8xYXAOhBX6yQLDB/zohf2jLdo9RkrDaJcFfqaQg3XYDlnrAz+PzrGZFO53jqLrq1IrOxjQ2VXF7sSmbPirWEKKPPkulzrNkA9D7i3fvnUDZraYvjRIQ+6ptmcFLTxjocuoEfuBCSPVn/N9R/DCbG/0enwG5UYSnVEJaLyUq5G+MnB986kQZDMfxKgvTLw0NqUnzpRDQJNsJvk3xnAt1e40NhITadu3ttQuSM7Hb+RyVep02Vu805xic7OjttqakR6c7ILZJvwJQhXAEe4tYE2tgkB/qdix5WzKbN8pSZMWaptJLTgsFA8wSpIzyCO/j5J16bypMeq1OpVR5TbzCVtOJGARwASCFd8uSjju/tg6UO8avT6huZiH9fPZ2+VJDqW1KICBbIbJtm3Lo9jvABJX7RZPn26ks5qxAZmZJYbcbYkvNoWktqShwpCknsEDsfbUXT5mUbbkfw7qK6NUYcpgsLUyX4vF1QA/cbHlf3tbr40h7a9VaLM4GMTLK9GIW+HNei7fr7sqYF+W7GcYCkmxQpVrKvbFiL9H8aOm91RZFPdpcOvqhxHwEvvy0ofU4COKjyNnASAB2bDrOSmff8AnWa1q1Y5MbTf2xjAMe9Kq9LRFMRmfTEEMuxvNCC0p9LinCoquLcrOlINzYAdd63RatQnN1fV15xqZIcEh1SnQ2oXTZSrpT6bkE2sMWOLnSHtrXxoGoDDGZW/qRZdOkR5+Ke6mITRYo7cZMN5pxjyk/7V34qUAk2AyofBIVYdHS92FFi1KsSUVRqM80tlRX58gNd5ulShYKNvbOg3Wxpmk6NGZztShywHMee/fECjv7em06NTmm5LrRZHBxKwm4tfAGf50jP41vq2svoaqlqGFmu5c5M//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">蒲公英的約定</div>
+                                    <div class="artist"></div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABQYCAwcEAAH/xAA2EAABBAECBAMEBwkAAAAAAAABAgMEEQAFIQYSMUETImFCUXGRBxQygaHB8BUjJTNDUmLR4f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDJYGkuTRzxFREpv+oSPzvDcfg3UpJT/FYUZO9+AtVn8PzyehxCITVCu+NWlMlJAN/LASvo3kMypepQ39WPiiUW2VqBX4qaNFKiSBshRqvX4aHJ0lETTZLy5r0xTDSnAhTwb5iASAfDCRRr3HAfE/C7EfTPruhxURnWaLyIzdcyLB5uQdSkgEgbqAr3AsvDrzWvaS40pxKFFtSSVEK5kkbKBBpQojfa+uwIwETgLhhGpuy587WNQchpX4bcdUhxocxSldhQXagErAvazeaYmPH6B9np/eP951fRinS2OH4rOjxxylhhRWtNqcCmkK3262TthXW9IgPIccAEZ/r5dhtV0m66YABUeIerrPzBzmVH0+/5rXzGenQWedSY6SU911XMfQdh6YNVDIV3+eBwQ4iEpQlKaSBsnDMOPRuiO2UxQLFYZjpFDbA+NOOtKUEpSUpIHNXvF+/44pzHndP4plRmD4CZjXjt8opNrtC9gNylZCtzX75avZxuWlHiu7HmtPb033+WJ/Eemidxe0+nUUNJjxEByOpkL5iXa8MKJAClhwJ5bs83wOAc4amjS9LjtsKShpKGWUcpK6ISEBNg7/ZAv78PxXUzkF4q51X59jsfdv3qsTdG0+U/pjKJbiJj8WQ24mW6RbiqC1KSoDYUsgem3TcuGgsiPHDbq2vHcUV8iVAncn0B7HAsUwD0yhUWz2wqUUScgUC+2AkwVXQAw3GXt3GKWnzk7WRtjBElBVAb/jgd63B4rg9q0n8P+4raXFCp8tSZYQ6p98cyibcUXnCAD0JCUgAUqgK5VDo3w3GlL8yElV+0kXmSTFazr+onRtRMfQnXJCy6lh0p2rmHPuD4fKDVGlEdUkVga/G04QtPYQ+6A7taEgGgegAvsKHXtnFxDw7qEuM05Gjuu8xJPKoJ2AIo72L3H3j1wjw1Ha0bS4EeUGZio7YRz8gSDQ2oWaFV3OGntc5gA00lKRfl7D9fngC9LYXE0mDHfTyOtR221Ju9wkA/HcZaVj0yLkgKKia33+GUlxJPXAz7hzSYUhqO/IlvcrtEJ8oB9Cb2NV+ujJqM53h16O8y2HoNcgUqgUE7kAgWNrzD4ch5hQWy4ptXXymsKftOa+EoelPLSdyCo18umBqw4nhrcc+qRQjxDalOG1X6b9O+IuocOOarxambqSkPQ3Hi4t1pamlJQE+RBpVndKRe3SxgyM+4FClYValvADzYDuxKjwYbMSJaGGkhKEqWpRAH+RJOTRqYHtA4jLlOm/Nk0SHKHm7YDurVE19oZQrVk31xNekOAjzZQZLpP2sD/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">怪咖</div>
+                                    <div class="artist"></div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAABQABAgMEBgcI/8QAMhAAAgEDAwIDBgQHAAAAAAAAAQIDAAQRBRIhMUETIlEGFGGB4fCRobHBIyQyQkPR8f/EABoBAAMBAQEBAAAAAAAAAAAAAAIDBQQGAQf/xAAnEQABAwMCBgIDAAAAAAAAAAABAAIDBBExBRIhQVFhofATgTJxsf/aAAwDAQACEQMRAD8A+XKcUjSzQJ6lGjSOEQZLHAFGItFk8Em42RnPB3cmtWjWq21mbtwhnbOwtyFoVqF5I9wdsjlFY+bpg9xn7/Ckb3PdtZyVplLDSQtlqRcuwO3dPPpnhNs95g8TPKM4BH16VgkjkjYq6Mp7hhzRCa/nSMRoqIe7bMGq5R40QETlwqkl3PJwMkY6gffejaXD8llqIoHk/BcEcvfJx4WClilSpqnKRq61ha4nWNOSxxVFF/Zxf57e4OxVJB7Z/egkdtaStVHCJ52RnBK0e0EkcNtFbRNjw1AC9SOmD+X32BLIxjVN2PDyV+fX9KI+0AX3vcGB3DJH6UOtQzSgA4+NDCAIwU/U5HSVjm4GOHQYViqJOGPnYhd3UDmikcS2WmXD5DSbdoI6ckfnU7HT2llVcDw1JZuMA+lW3VgkVjfBZANp3KueB3P39aU+RpIbdb6ahljjdNt42IB+r+91zlKmzSzWqy566lW/TLpbZ84QHGC/c/DnpQ80mOQB8K8c3cLFNhmdC4PbkKy6mWaYtjA556k0Q0OBGnJlA9PUU2maTJqMZkaTwkXyhmXO7/lE7XR7m0l8kkbx/NT+H1pEsrACwHiq2n0FS+RtU6O7T+v5nwikbQQN4Pixh8ZC7gDiua1y5V5jEjBtpOTwfTvj/dV6pZXfvM0zQOUyOf6sDHwoXQwQtB33um6tqksjTTGPaL9+IUqbNNSrWudupVbbxmaZIx/ceT6DvVNbNOO15mHURnn5gfvQuNgmwND5GtdhdEuobIUjt4toUAeboK3Wd2twNrDa/cUNhRdg4pj/AA5QycGprmNOF3kNVLGQXG46I5jzbsc4xXN+0el7N13bL5f8ijt8a6OI7lXPpU2RSnIyO4PQ0mKQxuuFQrqGOuhMb/o9D7lebGlmt2q28dvqNxDHkRocgE9OM1gxVoG4uvl8kZjeWHINl//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Narcissistic</div>
+                                    <div class="artist"></div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAABAECBQYHAwD/xAA2EAACAQMDAgQDBQcFAAAAAAABAgMABBEFEiExQQYTUYEicaEVQmHB8BQyM3KRk/EWUmLR4f/EABoBAAEFAQAAAAAAAAAAAAAAAAABAwQFBgL/xAAlEQABBAEDAwUBAAAAAAAAAAABAAIDEQQFITEiQVESQlJhodH/2gAMAwEAAhEDEQA/AK6IjmniGrtF9h/f02X2lzRC/wCne+m3P9wVmnZrh7T+f1acY48qg+TXvJNaFu8Oj93TLj3daUHRJWCR6TKf5XGfpTZznfE/i7GMFnLQntimGAjnArSrnT9ESPdJbujYPwg5J96h9WGnRWmLW1AkYcb+SPxOD+VKzUPVVNKDiV3VJaIjqK5FDUpLGOTg0M0Yz1qwbJaiuh3VoVq6Bs+lR6Stj/FEwzD1FZWfJkaaC1kOAHIsdM0sU8lvIJIXZG/3A4piyDHJFMLxFGLSbW7Ltznj1FRBkyHYp84LPC73l810251QN/x4+n660PPNE1owlQMyg+W3c5I4/Eck0HJcRozYcHr24oG8vxwoIKr+dWWIySQBoGygzwsi6iUrAMD2+VBuUViKHuL8IjPK6xxqCxZjgADkkk9KyzxNrd1e6xNJZXlzDAuECrMQDjqcA960UGK53KocnJjj43Wrx30Q6tj2pJdatLZkEsyJv6b2Azj0HuKoNnrdpcYAkmjbjPmIcf1Gce9N1fUPLCiG4gl3A9GBKAjBBB6dTXUumQv5TkGvzt4FLVrDx0NK0vVbOCaz8q7URTSSLuZAAf3T269wcY7VCLrKTRjyp0nVcZcMDk+px+uayaV/MU/wxux94UizeXIzj9m3MQ25lU7SO444pGaXE2gRdIk1yR1loAJ5rv2Wny6lvmVMn4cN145BGM+31oe+1SG0hMtzIFXIX1JJ9AOv/lUXT9bW3RVmViqkfwgBwAR0OPUUt9d6PdESzXd4zY2hWXgAnt/ntU1uOxvCrJM6R56ly8Qal9q3nmHiFBtjU9VzjJ98fSoptueopLuSESstrM7wdtwwfkR+utDGQD0p8ClDc6zatFr4Yna8kgaVFZEVw23hgSRnr2x9aS78NSxoGFwG55YqQM+mKip9W1B54ZmvJTJGuEYEDAz046j508a9qQTc1wH/AJokP5UADlDi4bIk+Gr3AO6ML8zz7Yp6+F7w4zJHt9+aTS9dvri9t7dnVI3Jz5a7T0PpQ+p6rez3DWrXDrFC7KNnwlgCcZI611W1puzdI9fDckMsIaRZmcnEW3AIGMkkngDI7d6k59WOntNbyJcvd537WPwKmAdwY544Hbrx86hbXVzHe25W5m+HAXLZABIyMHt0/pUzLIb+DdOCWZijNuYkhTwMkk9+n4CgeAg/aI1XVxDpNjPGlrPdyqfMY/FsIAByOoPTr6GoU+Ib0sSY7VufvR/9UZPbQHErxK8mcbmzz88daEdow3Ftb/2xS0Ulhf/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Shall We Talk.</div>
+                                    <div class="artist"></div>
+                                </div>
+                            </div>
                         </div>
                     </section>
                 </div>
@@ -257,23 +295,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>WEIFENG2333/VideoCaptioner</span>
+                                                <span>MathewSachin/Captura</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.</div>
+                                        <div class="field description">Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#3572a5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Python
+                                                C#
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                15.6k
+                                                10.7k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -291,23 +329,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>DDoSolitary/LxRunOffline</span>
+                                                <span>iina/iina</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">A full-featured utility for managing Windows Subsystem for Linux (WSL)</div>
+                                        <div class="field description">The modern video player for macOS.</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#f05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                C++
+                                                Swift
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                4.27k
+                                                45.9k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -337,23 +375,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>ctf-wiki/ctf-tools</span>
+                                                <span>vulhub/vulhub</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">CTF 工具集合</div>
+                                        <div class="field description">Pre-Built Vulnerable Environments Based on Docker-Compose</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Shell
+                                                Dockerfile
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                1.17k
+                                                21.1k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -371,23 +409,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>GJDuck/e9patch</span>
+                                                <span>jhftss/IDA2Obj</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">A powerful static binary rewriting tool</div>
+                                        <div class="field description">Static Binary Instrumentation</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#3572a5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                C
+                                                Python
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                1.14k
+                                                122
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -545,7 +583,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.018480492813126 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.103353867214224 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -814,7 +852,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 246k out of 239m users</span>
+                                    <span class="gh">ranked 247k out of 239m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">72</div>
                                     </div>
@@ -977,7 +1015,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.31m out of 339m repositories</span>
+                                    <span class="gh">ranked 3.32m out of 339m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
@@ -1155,14 +1193,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #00CBB0">Your fortune: ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Aug 2026, 22:22:06 (timezone Asia/Shanghai) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 12 Aug 2026, 22:22:40 (timezone Asia/Shanghai) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
