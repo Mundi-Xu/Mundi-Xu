@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1987" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1984" class="">
     <defs>
         <style/>
     </defs>
@@ -155,23 +155,16 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAABQABAgMEBgcI/8QAMRAAAgEDAwIDBgUFAAAAAAAAAQIDAAQRBRIhMUETIlEGFGGBofAjkbHB4SQyQkPx/8QAGgEAAwEBAQEAAAAAAAAAAAAAAgMFBAYBB//EACcRAAEDAwMDBAMAAAAAAAAAAAEAAgMEETEFEiFRgfATQWHRMqGx/9oADAMBAAIRAxEAPwD5cpxSNLNAnhTRGkYKi5LHAFF4tFfwSbjZGc8Hdya1aNarbWZu3CGds7CeQtCtQvJHuCVkcorHzdMHuM/f5Uje6R21nsrTaWGkhE1SLl2B0Hynn0zwm2e8weJnlGcAj+elYJI5I2KujKe4YYNEJr+dIxGioh7tswarlHjRAROXCqSXc8nAyRjqB996NpcPyWWoigeT6FwR7ef3H6WClilSpqnKRq61ha4nWNOSxxVFF/Zxf63e4OxVJB6DP70EjtrSVqo4RPOyM4JWj2gkjhtoraJseGAAvUjpg/T77AUkYxqm7Hh5K/Pr+lEvaAL73u3A7hkj9KHWoZpRg4+NDC0CMFP1OV0lY5uBjjoMKaqJOGPnYgbuoHNFY4lstMuHyGk27QV5HJH1qdjp7SyquB4aks3HB9KturBIrC+CyAbSGVc8DuaU+VpIbdb6ahljjdNt5sQD2J7/AGucpU2aWa1WXPXUq36ZdLbPnagOMFu5+HPSh5pMcgD4V45u4WKbDM6F4e3IVl1Ms0xbGBzz1JojocCNOTLj09RUdM0qTUYzIZPCReAxXO7/AJRO10e5tJfJJG8fzU/l/NIlkYAWA8qtp9BUvkbVOju08+DKKRtBAfB8SMPjIXcAcVzWuXKvMYkYNtJyeD6d8VXqlld+8zTNA5TI5/uwMfChdDBC0Hfe6bq2qSyNNMY9ov8APIUqbNNSrWudupVbbRmeZIx/keT6Dv8ASqa2acdskzDqIzz8wP3oXGwTYGh8ga7C6JdQ2QpHbw7QoA83QVus7xbgbWG1+4obCi7BxTH8OUMnBqa5jThd5DVSxkOcbjp9I5jzZ74xXN+0el7N13bL5f8AYo7fGujiO5Vz6VNkUpyMjuD0NJikMbrhUK6hjroTG/seh8yvNjSzW7VbeO31G4hjyI0OQCenGawYq0DcXXy+RhjeWHINl//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABQYCBAEDBwAI/8QAORAAAgEDAgMEBggGAwAAAAAAAQIDAAQRBSESMUETYXGRBhQiUYGSFSMkMlKCodEHCDVTwfBCcvH/xAAaAQADAQEBAQAAAAAAAAAAAAACBAUDBgAB/8QAJhEAAgIBAwMDBQAAAAAAAAAAAQIAAxEEIUESE1EUMcEFQnGB8P/aAAwDAQACEQMRAD8ACwSIyytJGvZIo4n3yM5AAx1J8eWcbGtR1OZG+olaFBvwRkhfiP8Al8c5q3dRr9AQyJEFV7t0cg9VRCufnk/WgnYM5YRgsVVnbuUDOT5VQNmZWGnHEMXsvYWR4SF+yRr+aV+02/ICPgKX5ZmK4ZU67756f78TRvXIZDYaY4UdmYhFIVOcSxgLwnvCBT+Zq9pGn2twqRXav9oSTEq4IiZcc89BkH8wFAtuBmeNAO0X0nBlBEa8IYEoGOMe7urMNvNdSOtvG8hVS4Xmcf5O48SRijd1cQ3kMMlxOfZc8SPkvgKoAU45HBJ5DJJxyzZivo4LqS7t3haWVAQnCw4H9kk+GQffzFGLT+4Hp15iv2bRSOJbdWKkqyScQwQeuCN9j5mqroWbIiRR7gf3zTFevZyStJwzRux4mUYYZO+zEjb4HxNUGaLPsxHHe2f2rQWwDpljFZziCKe2niW8spiGaNmKEOuQGVh91sEjqCDgioWqrBdrJbxFYYlZ3VpONpMKfZY4G2TjYDnR67s4mBEBRfdsP80OisLqO4IZh2cishbY44lIDeAJB+FSO9mdOdNUwzzBK+t6dLPBEyXFvIQWjlXiWUYyrY6HBByMEZ51VluL+OJoIojbwPu0cXFg9NySTy76N3Gn6l2FupiftVDIcYOVBBByOf3iPACg17eLp9ysV7cwW7k4IkcDHjnlWi3LzFb9PhcgjH5g5nfkynyqPE2chf0o/p1/bzxdrCIrhc440KkeG3Wt0lyjMc24wa2FoivpLCMiLgkbH3RnwratwwG8a+VMCzwYIa3NR9YgHK1HlRCwTM0MPcGH5LK4Az2S8vxGtHY3SnZTRB9UjLHhzjwFR+kY+qt5CoAsPmWe7Zysu+ikL3WrwwXgfsXJU8I3yQQOXfigf8wmn6fNHa3WkW0KwuhgTs8AfVtgkD/znnrTT6K6hHFqscyqG7M8TDAzgd3u3+Ga51/FmWaCS6Ywr6iJJbWO4jUBGLA74HXhcc/cMbUS2HqEQ1Kh+onYAf3xOU+jWq3GlavG1u7KkrBJFHJgTjkeo6V1yC6hkA7a5GeZDQCuP6VAl1rFrFAkmBIruxO+AwJ5cts/pXWhHbkezDL81UHfET+kICjB9xnb5hJU06Tf1qFT/wBStbRZWBH9Qi+cftQGUOp2jk4eQqGffHL8or6GPmUWqSaTcxOciZvlrK4kPszj5apm3jDYC7Zpg9DbO3n9I9KSSMFWu4Qdz+MVPAHEfaxlGTBHpLq2q+ht0be2tzxy5ilkdGxxBQSqtyJwwzz6Uka/q+ravbRQXcirbIxkESKBgkYycbk4A55xvjma756a2NvqN7d2d2gdJbe+nLndxICCrAnkR2a4r57ZzMI+MDiOxYDc8qYrQABsbzm9Vc9rMrMceJjQLmLS5JWMTSGReEkgApvnK99NunyLqCM1pKrFR7SEkMM9x6UmooIJ65/arWnSvHeAo3Cd1yPd/orRsnce8HR6k1EV/bHL1O6/AfMVj1S6/tt5ig4vJ8H6xvOpC9n/ALjeZoQLPIlfu1ngz//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Narcissistic</div>
+                                    <div class="name">A.I.N.Y. 爱你 (G.E.M.重生版) - A.I.N.Y. (G.E.M. Version)</div>
                                     <div class="artist"></div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABAUBAwYCB//EADAQAAIBAwIEBQMDBQEAAAAAAAECAwARIQQSEzFBYQUiUXGBFDLBkaGxIyQzQ9Hx/8QAGgEAAwADAQAAAAAAAAAAAAAAAgMFAAQGAf/EACgRAAEDAwMDBAMBAAAAAAAAAAEAAgMEESESMfAiQWEFE1HRcYGRsf/aAAwDAQACEQMRAD8A93+pdZNpK87dvWq5fEQvNugrOJrRxMy/7AMydLnr+maHk1h6tux+3zVcQ5yucdWWGFpW8UVuTbv3qD4kv2l13el6zK6z/wAofVLDqfMSySdHTB+aYIW3sUl1a+125WvbXBebdbe9T9cPWsUIGXb/AHknl62A/FGaacR7d8sjryJNif4onQNGxuvGVzyeoW/YWr+uHrVZ1medIH1C8PdG2716Zx0qj6zvQeymGrSxvEQ26wbk46czbNdarxAzyNsGxdxNudrgD8GkC6kcPJq6GXd1qm6mAzZcw31AvxfdMhLXXE70AsneuxJQGOyaJ7o0OW+0M3tUGQruufjmf0oRpPQ0OJ5Wn8w8trZIvesbHdY+oDbJpDqP6e47uRAGQc4zj3rnid6FWSo3V5pyi93CQ8QVaWMaYdf+UsikP3CrN3kyb1XIuue0adkcuoaPzMd2LAd6sgkkkk4kiN5R0yB8UBG/arBLu8pbarHPOwHcULmhG1zgbJ2kU06cSIKcgAXy1za/YDOTYVJ0MixxzvMqxyQtICfKN1hYXPqWXPvyqfB/EI1gk0mlh2ySBzxHsTIQj2uOnmtjI/k2T6dl+i4m4R6jUKojyAqhQEB/PK9sXGRDkqZWSmN3SO3yRY+cbHhxegpIpohIOo984BuP7uOZJXiEsS6Rfp1kZeJ95jC71G7ItzAFs9/UmksmoZZGWzeU2ovWsWg0kkUnCjkhJaaaS0jgk4OLti3IH5GaWzrGX3PJK7MLlglwT63Jua2qFjGsznJ/3xzwtX1B8hk+LW/G3nnlK3RF0kbQpdt+ZVJ2m6g7DcYK9feoMiKmf8isbm+LYtb5vVXhkkmitqtLI0c8TgIwti971TvKybQfKaotB2SJg07DPOfaISYdK7EnaonhRBqCq22SIo9iD/yo0bBZ4tyK6nmrXs3Y2otWLpToOrSidLqZNNq4dREF3RvuAbkc5B/emE/jMrPBwTHNti3OH06rw2N99mGe98ZNIZMSN2W9DGdz5b5yN3WxHL2pEtNFI7U5oJ59rappZImaWusN03aQzz8RtqZBfYWe4sSTck5+fzUz6k79iys8SXWMyGx23JGOnOqNHLK2nfR8Vhpg3F2Ytu2WvkelK5XbcLsxx1PKmMFsfCCRgeL9yv/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">漂向北方 (feat. 王力宏)</div>
-                                    <div class="artist"></div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">透明 - Selfless</div>
+                                    <div class="name">我从人间走过</div>
                                     <div class="artist"></div>
                                 </div>
                             </div>
@@ -183,9 +176,16 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">回到過去</div>
+                                    <div class="name">灰狼 - Grey Wolf</div>
+                                    <div class="artist"></div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Blueming</div>
                                     <div class="artist"></div>
                                 </div>
                             </div>
@@ -295,17 +295,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>hasantezcan/computer-networks-notes</span>
+                                                <span>WEIFENG2333/VideoCaptioner</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">This repository includes all my notes material about Computer Networking lesson. Those notes based from Computer networking a top-down approach 8th Edition books.</div>
+                                        <div class="field description">🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.</div>
                                         <div class="field infos">
+                                            <div class="language">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill="#3572a5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                </svg>
+                                                Python
+                                            </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                50
+                                                16.3k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -323,23 +329,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>CherryHQ/cherry-studio</span>
+                                                <span>sqlmapproject/sqlmap</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs</div>
+                                        <div class="field description">Automatic SQL injection and database takeover tool</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#3572a5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                TypeScript
+                                                Python
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                52.7k
+                                                38.7k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -369,23 +375,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>zardus/preeny</span>
+                                                <span>stong/how-to-exploit-a-double-free</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Some helpful preload libraries for pwning stuff.</div>
+                                        <div class="field description">How to exploit a double free vulnerability in 2021. Use After Free for Dummies</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#3572a5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                C
+                                                Python
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                1.65k
+                                                1.39k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -403,23 +409,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>googleprojectzero/TinyInst</span>
+                                                <span>libjpeg-turbo/libjpeg-turbo</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">A lightweight dynamic instrumentation library</div>
+                                        <div class="field description">Main libjpeg-turbo repository</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                C++
+                                                C
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                1.36k
+                                                4.45k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -579,7 +585,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.69746748802189 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.782340862423 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -793,7 +799,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 6.56m out of 251m users</span>
+                                    <span class="gh">ranked 6.57m out of 251m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">15</div>
                                     </div>
@@ -848,7 +854,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 245k out of 251m users</span>
+                                    <span class="gh">ranked 246k out of 251m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">74</div>
                                     </div>
@@ -1189,14 +1195,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Oct 2026, 00:21:50 (timezone Asia/Shanghai) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 20 Oct 2026, 03:01:27 (timezone Asia/Shanghai) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
